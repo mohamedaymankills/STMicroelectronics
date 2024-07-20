@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+    151	      4	      0	    155	     9b	func.o
